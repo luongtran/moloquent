@@ -18,17 +18,17 @@
   ],
   "license": "MIT",
   "require": {
-    "blpraveen/monolog":"^2.0",
-    "illuminate/support": "^8.2",
-    "illuminate/container": "^8.2",
-    "illuminate/database": "^8.2",
-    "illuminate/events": "^8.0",
-    "mongodb/mongodb": "^1.0"
+    "luongtran/monolog":"^2.2.0",
+    "illuminate/support": "^10.0",
+    "illuminate/container": "^10.0",
+    "illuminate/database": "^10.0",
+    "illuminate/events": "^10.0",
+    "mongodb/mongodb": "^1.6"
   },
   "require-dev": {
-    "laravel/passport": "^10.1",
-    "php": "^7.3|^8.0",
-    "orchestra/testbench": "^6.0",
+    "laravel/passport": "^11.9",
+    "php": "^7.3|^8.1",
+    "orchestra/testbench": "^8.11",
     "mockery/mockery": "^1.0"
   },
   "autoload": {
