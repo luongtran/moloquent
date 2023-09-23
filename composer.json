@@ -1,5 +1,5 @@
 {
-  "name": "blpraveen/moloquent",
+  "name": "luongtran/moloquent",
   "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
   "keywords": [
     "laravel",
@@ -10,10 +10,10 @@
     "model",
     "moloquent"
   ],
-  "homepage": "https://github.com/blpraveen/moloquent",
+  "homepage": "https://github.com/luongtran/moloquent",
   "authors": [
     {
-      "name": "B L Praveen"
+      "name": "Luong Tran"
     }
   ],
   "license": "MIT",
